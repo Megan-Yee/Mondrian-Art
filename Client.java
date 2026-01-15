@@ -1,9 +1,3 @@
-// Megan Yee
-//11.14.2025
-//CSE 123
-//Creative Project 2: Mondrian Art
-//TA: Anirudh Seshadri
-
 import java.awt.*;
 import java.util.*;
 
